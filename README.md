@@ -8,11 +8,13 @@ It is meant to serve as an example of how Telegraf and Logscape are capable of i
 ## Pre-Requisites
 
 Pre-Installed Telegraf Instance
+
 Proper Telegraf Configuration
 
 ## Distributables
 
 [TelegrafApp-1.0.zip]("")
+
 [Telegraf.conf]("")
 
 ## Overview
