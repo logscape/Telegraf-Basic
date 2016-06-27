@@ -7,15 +7,13 @@ It is meant to serve as an example of how Telegraf and Logscape are capable of i
 
 ## Pre-Requisites
 
-Pre-Installed Telegraf Instance
-
-Proper Telegraf Configuration
+ * Pre-Installed Telegraf Instance
+ * Telegraf conf set up to forward logs to your Logscape installations Socket Server
 
 ## Distributables
 
-[TelegrafApp-1.0.zip]("")
-
-[Telegraf.conf]("")
+ * [TelegrafApp-1.0.zip]("")
+ * [Telegraf.conf]("")
 
 ## Overview
 
