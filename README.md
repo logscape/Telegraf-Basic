@@ -12,8 +12,8 @@ It is meant to serve as an example of how Telegraf and Logscape are capable of i
 
 ## Distributables
 
- * [TelegrafApp-1.0.zip]("https://raw.githubusercontent.com/logscape/Telegraf-Basic/master/dist/TelegrafApp-1.0.zip")
- * [Telegraf.conf]("https://raw.githubusercontent.com/logscape/Telegraf-Basic/master/dist/telegraf.conf")
+ * [TelegrafApp-1.0.zip](https://raw.githubusercontent.com/logscape/Telegraf-Basic/master/dist/TelegrafApp-1.0.zip)
+ * [Telegraf.conf](https://raw.githubusercontent.com/logscape/Telegraf-Basic/master/dist/telegraf.conf)
 
 ## Overview
 
